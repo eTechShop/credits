@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Our Team</title>
+</head>
+<body>
+	<header>
+		<h1>Meet our lovely team!</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Kevin Ray M. Dalion</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<p>This is the main content of my home page.</p>
+	</main>
+	<footer>
+		<p>&copy; 2023 My Team</p>
+	</footer>
+</body>
+</html>
